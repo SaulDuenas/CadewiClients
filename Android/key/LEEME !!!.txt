@@ -1,0 +1,5 @@
+archivo de certificado: cadewiclient.jks
+
+key store password: cadewi123
+
+key password: cadewi123

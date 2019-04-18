@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#4fc3f7</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="colorPrimaryDark">#0093C4</color>
+    <color name="colorPrimaryLight">#8bf6ff</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="primaryTextDark">#CB3C3C3C</color>
+
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorBlackLight">#6B6B6B</color>
+    <color name="colorGrayProgress">#F2FFFFFF</color>
+    <color name="black_semi_transparent">#AE000000</color>
+    <color name="colorPrimaryTransparent">#4699f8f0</color>
+
+    <color name="app_background">#00000000</color>
+    <color name="content_base_background">#C6C6C6</color>
+    <color name="panel">#ffffff</color>
+
+    <color name="black_overlay">#66000000</color>
+
+</resources>

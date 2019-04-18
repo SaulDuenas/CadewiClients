@@ -9,6 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.gatetech.cadewiclients.R;
+import com.gatetech.content.ClientContent;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -27,6 +28,9 @@ public class ClientDetailFragment extends Fragment {
     // TODO: Rename and change types of parameters
     private String mParam1;
     private String mParam2;
+
+
+    public ClientContent.ClientItem mclientItem;
 
     private OnFragmentInteractionListener mListener;
 
@@ -51,6 +55,17 @@ public class ClientDetailFragment extends Fragment {
         fragment.setArguments(args);
         return fragment;
     }
+
+
+    static public  ClientDetailFragment newInstance(ClientContent.ClientItem client) {
+        ClientDetailFragment fragment = new ClientDetailFragment();
+
+        fragment.mclientItem = client;
+
+        return fragment;
+    }
+
+
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
