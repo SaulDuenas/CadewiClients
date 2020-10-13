@@ -1,0 +1,257 @@
+<resources>
+    <string name="app_name">Cadewi - Clients</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="progress_loading">Loading...</string>
+
+    <!-- menu photos-->
+    <string name="face_recognition">Face Recognition</string>
+    <string name="information_photo">Photo/Image Information</string>
+    <string name="full_image">View Full Photo/Image</string>
+    <string name="rotate_picture">Rotate Photo/Image 90º</string>
+
+    <!-- titles and generals -->
+    <string name="go_to_fragment">Next to fragment</string>
+    <string name="title_activity">Activity Example Magical Camera</string>
+    <string name="go_to_activity">Back to Activity</string>
+    <string name="title_fragment">Fragment Example Magical Camera</string>
+    <string name="version">App Version 1.1.2</string>
+
+    <!-- Menu -->
+    <string name="menu_shared">Shared</string>
+    <string name="menu_about">About Developers</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_github">Github</string>
+    <string name="menu_donation">Help Us</string>
+    <string name="menu_documentation">Documentation</string>
+    <string name="menu_todo_list">TODO List</string>
+    <string name="menu_terms_conditions">Terms and Conditions</string>
+    <string name="menu_hire_us">Contact Us</string>
+
+    <!-- Links -->
+    <!--<string name="link_donate">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=L25MKCRPR7TWY</string>-->
+
+
+    <!-- About Developers -->
+    <string name="dev_creator">MagicalCamera creator</string>
+    <string name="dev_image_creator">https://avatars3.githubusercontent.com/u/13343461?v=3&amp;s=460</string>
+    <string name="dev_description">Magical camera creator, I do the take camera, select photo, rotate picture, convert bitmap, facial recognition, save picture, get information and others...</string>
+    <string name="dev_link_git_creator">https://github.com/fabian7593</string>
+    <string name="dev_link_git_contributor_1">https://github.com/arthursz</string>
+    <string name="dev_link_git_contributor_2">https://github.com/cutiko</string>
+    <string name="dev_contributor">MagicalCamera contributors</string>
+    <string name="dev_name_contributor_1">Arthur Zettler</string>
+    <string name="dev_image_contributor_1">https://avatars2.githubusercontent.com/u/6000680?v=3&amp;s=460</string>
+    <string name="dev_desc_contributor_1">Arthur create the return path of the image saved like a String</string>
+    <string name="dev_name_contributor_2">Erick Navarro</string>
+    <string name="dev_image_contributor_2">https://avatars3.githubusercontent.com/u/6012585?v=3&amp;s=460</string>
+    <string name="dev_desc_contributor_2">Erick Add a best usage of google play library, and he develop the better usage of permissions, and an excellent code refactor for permission class and other components.</string>
+
+    <!-- Messages -->
+    <string name="message_save_manual">stored on path: </string>
+    <string name="message_see_photo_information">See photo information</string>
+    <string name="convert_to_string_base_64_title">View String base 64, only shown 300 string lenght for this example.</string>
+    <string name="convert_to_string_base_64">Convert to String base 64</string>
+    <string name="message_ok">Ok</string>
+
+    <!-- Information Data -->
+    <string name="info_data_latitude">Latitude: </string>
+    <string name="info_data_latitude_referene">Latitude Reference: </string>
+    <string name="info_data_longitude">Longitude: </string>
+    <string name="info_data_longitude_reference">Longitude Reference: </string>
+    <string name="info_data_date_time_photo">Date time to photo: </string>
+    <string name="info_data_date_stamp_photo">Date stamp to photo: </string>
+    <string name="info_data_ISO">ISO: </string>
+    <string name="info_data_orientation_photo">Orientation photo: </string>
+    <string name="info_data_image_lenght">Image lenght: </string>
+    <string name="info_data_image_width">Image Width: </string>
+    <string name="info_data_make_company">Make company: </string>
+    <string name="info_data_model_device">Model Device: </string>
+
+    <string name="help_us_text">You can help me of differents ways, \n for continue to make open source libraries (for Android and iOS):</string>
+    <string name="help_us_option_1"><b>1. Donation.</b> You can realize a donation in</string>
+    <string name="help_us_option_1_1">   * The github page in the section How to start > Donate.</string>
+    <string name="help_us_option_1_2">   * buy the app MagicalCamera (donate) in play store for only $1</string>
+    <string name="help_us_option_2"><b>2.</b> Share with your friends.</string>
+    <string name="help_us_option_3"><b>3.</b> Give like and suscribe to youtube channel Frosquivel Developer.</string>
+    <string name="help_us_option_4"><b>4.</b> Realize Fork and give an star in github.</string>
+    <string name="help_us_option_5"><b>5.</b> If you have an idea for a open spurce library or for add into magical camera please contact me to mail, fabian7593@gmail.com.</string>
+
+
+    <string name="contact_us_title">Contact me</string>
+    <string name="contact_us">Im specialist in mobile develop (IOS / Android native), if you need to hire me, contact me by fabian7593@gmail.com</string>
+
+    <!-- Email -->
+    <string name="email_subject">MagicalCamera 5.0.5 Android Library</string>
+    <string name="email_choose">Choose Email Client</string>
+    <string name="email_title">Share MagicalCamera</string>
+    <string name="email_text">Hello We are the developers of MagicalCamera library, \n\n we want to share with you this library, MagicalCamera, for use the camera photos/pictures of android native. \n\n View this library here. \n XXXX1 \n\n And download the app here: \n XXXX2, \n\n And if you have the possibility to buy the Payment app, we will be very grateful, you can see here: \n XXXX3</string>
+
+    <!-- values preference -->
+    <string name="value_directory_name">Magical Camera</string>
+    <string name="value_photo_name">MagicalCamera_test_photo_name</string>
+    <string name="value_selected_picture">Select Picture</string>
+    <string name="value_quality_picture">100</string>
+    <string name="value_autoincrement_picture" translatable="false">True</string>
+    <string name="value_facial_recognition_thick">50</string>
+    <string name="value_facial_recognition_color">#0E477F</string>
+
+    <!-- shared preference -->
+    <string name="shared_photo_name">Photo Name</string>
+    <string name="shared_directory_name">Directory Name</string>
+    <string name="shared_title_popup">Title PopUp Select Picture</string>
+    <string name="shared_quality_photo">Average quality photo</string>
+    <string name="shared_type_extension">Type extension</string>
+    <string name="shared_autoincrement">Autoincrement name picture</string>
+    <string name="shared_line_thickness">Line Tickness of Face recognition</string>
+    <string name="shared_preference_title">Configuration Preference</string>
+    <string name="shared_accept">Ok</string>
+    <string name="shared_cancel">Cancel</string>
+    <string name="shared_change_color">Change Color</string>
+    <string name="shared_hexadecimal_color">Line color FaceRecognition</string>
+    <string name="image_down_quality">Press to down quality of the bitmap in runtime</string>
+    <string name="shared_preference_extension_png">PNG</string>
+    <string name="shared_preference_extension_jpg">JPEG</string>
+    <string name="shared_preference_extension_webp">WEBP</string>
+
+
+    <!-- Hire Us -->
+    <string name="hire_us_first_fragment">Hello, Im Fabian Rosales, do click in icons for contact me, or do swipe for view more.</string>
+    <string name="hire_us_second_fragment">Programming apps for mobile devices...</string>
+    <string name="hire_us_third_fragment">Android and iOS native programming 100%... ;)</string>
+    <string name="hire_us_fourth_fragment">Cloud technologies...</string>
+    <string name="hire_us_fifth_fragment">Programming Web Apps...</string>
+    <string name="hire_us_sixth_fragment">Charts, reporting and analysis.</string>
+
+
+    <!-- errors -->
+    <string name="error">Error!</string>
+    <string name="error_image_null">Your image is null, please select or take one</string>
+    <string name="error_not_connect">You Dont connect for feedback</string>
+    <string name="error_not_have_permissions">You not have permissions for active this funcionality, please accept the permissions.</string>
+    <string name="error_not_save_feedback">You dont save feedback, please try again later</string>
+    <string name="error_init_magicalcamera">Please initialized magical camera, maybe in static context for use in all activity</string>
+    <string name="error_not_have_data">You dont have data to show because the real path photo is wrong, save your photo first</string>
+    <string name="error_dont_save_photo">Sorry your photo dont save in devide, please make sure you have write permissions.</string>
+    <string name="error_not_detect_face">The library not detect any face in the picture</string>
+    <string name="error_not_open_messenger">You cannot open Facebook Messenger</string>
+    <string name="error_not_open_linkedin">You cannot open LinkedIn</string>
+    <string name="error_not_open_youtube">You cannot open YouTube</string>
+    <string name="note_fragment">NOTE: This changes only be reflect into Activity Example, the fragment example will have a basic configuration. And dont be realize with AsyncTask to maintain code simplicity</string>
+    <string name="error_string_base_64">The String base 64 is too big, please try again with a lower quality image</string>
+
+    <string name="feedback">FeedBacks</string>
+    <string name="feedback_save">Save</string>
+    <string name="feedback_save_message">Your feedback is save, thanks for your comments :)</string>
+    <string name="feedback_not_save">Please fill all fields</string>
+    <string name="feedback_select_comment">Select the option for feedback</string>
+    <string name="feedback_write_comment">Write your comment</string>
+    <string-array name="feedbacks">
+        <item>FeedBacks</item>
+        <item>Issues</item>
+        <item>New Ideas</item>
+    </string-array>
+    <string name="title_activity_permissions">PermissionsActivity</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_Profile">Profile</string>
+    <string name="prompt_email">Mail</string>
+    <string name="prompt_password">Password (Require)</string>
+    <string name="action_sign_in">login</string>
+    <string name="action_sign_in_short">login</string>
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_invalid_password">short password</string>
+    <string name="error_incorrect_password">"incorrect password "</string>
+    <string name="error_field_required">"required field "</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="user_root">Administrador</string>
+    <string name="require">"required field "</string>
+    <string name="message_user">You do not have privileges for this option</string>
+    <string name="title_activity_maps02">locations</string>
+    <string name="prompt_UserList_Title">Cadewi - User List</string>
+    <string name="title_activity_login">Cadewi - Sign in</string>
+    <string name="prompt_NewClient_Title">Cadewi - New Customer</string>
+    <string name="prompt_ClientDetail_Title">Cadewi - Customer Detail</string>
+    <string name="prompt_ClientList_Title">Cadewi - Client List</string>
+    <string name="prompt_PhototList_Title">Cadewi - Photo Galery</string>
+    <string name="prompt_NewUser_Title">Cadewi - New User</string>
+    <string name="prompt_UserDetail_Title">Cadewi - User Detail</string>
+    <string name="prompt_User_Name">Name</string>
+    <string name="prompt_User_LastName">Last Name</string>
+    <string name="prompt_User_Mail">Email</string>
+    <string name="prompt_User_Password">Password (6 or more characters)</string>
+    <string name="prompt_User_RepeatPassword">"Repeat password "</string>
+    <string name="prompt_User_Perfil">"Select a Profile "</string>
+    <string name="action_User_Save">Register</string>
+    <string-array name="Profiles_List">
+        <item>Agent</item>
+        <item>Manager</item>
+    </string-array>
+    <string name="prompt_ClientDetail_Name">Name</string>
+    <string name="prompt_ClientDetail_Rfc">RFC</string>
+    <string name="prompt_ClientDetail_Telephone">Telephone</string>
+    <string name="prompt_ClientDetail_email">Email</string>
+    <string name="prompt_ClientDetail_Address">Street</string>
+    <string name="prompt_ClientDetail_ZipCode">Zip code</string>
+    <string name="action_ClientDetail_ZipCode">Search</string>
+    <string name="prompt_ClientDetail_District">Colony</string>
+    <string name="prompt_ClientDetail_State">State</string>
+    <string name="prompt_ClientDetail_City">City</string>
+    <string name="action_ClientDetail_Save">Register</string>
+    <string name="prompt_ClientDetail_Town">Delegation / Municipality</string>
+    <string name="prompt_ClientDetail_TitleDistrict">Select Colony</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="photo_source">"Select an option "</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="prompt_photo_Note">"Add Comment (Optional): "</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_AddUser">Add User</string>
+    <string name="nav_ViewUsers">User List</string>
+    <string name="nav_ViewClients">Client List</string>
+    <string name="nav_AddClient">Add Client</string>
+    <string name="nav_Maps">Location Map</string>
+    <string name="nav_Close">Exit the app</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+
+    <string name="Header">" Complete action using"</string>
+    <string name="save_photo">Save Picture/Photo</string>
+    <string name="nav_Close_Sesion">Close User session</string>
+    <string name="pop_up_title_message">Message</string>
+    <string name="pop_up_button_close">Close</string>
+    <string name="base_Url">www.cadewigroup.com</string>
+    <string name="welcome">Welcome</string>
+    <string name="title_login">Cadewi - Sign in</string>
+    <string name="register">Register</string>
+    <string name="login">Sign in</string>
+    <string name="Phone">PHONE</string>
+    <string name="Email">EMAIL</string>
+    <string name="Address">ADDRESS</string>
+    <string name="location">LOCATION</string>
+    <string name="registered_location">Registered location</string>
+    <string name="unregistered_location">Unregistered location</string>
+    <string name="search">Search</string>
+    <string name="clients">Clients</string>
+    <string name="users">Users</string>
+    <string name="map">Location Map</string>
+    <string name="galery">image gallery</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="location_menu">Location</string>
+    <string name="add_image">add client image</string>
+    <string name="profile">PROFILE</string>
+
+
+</resources>
